@@ -1,3 +1,4 @@
 # hello-world
-This is my first try with github
+First try.
 Hey this is another try for commit change.
+Hello World.
